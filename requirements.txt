@@ -1,0 +1,25 @@
+# Core Data Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn # for handling imbalanced classes
+
+# Feature Engineering
+category_encoders
+scipy
+
+# Model Explainability
+shap
+
+# Environment & Utilities
+jupyterlab
+tqdm
