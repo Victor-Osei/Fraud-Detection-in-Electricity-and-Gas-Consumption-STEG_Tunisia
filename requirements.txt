@@ -6,6 +6,7 @@ numpy
 matplotlib
 seaborn
 plotly
+tabulate
 
 # Machine Learning
 scikit-learn
