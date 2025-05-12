@@ -41,8 +41,9 @@ The dataset consists of two main components:
 ├── models/
 │   └── lightgbm_fraud_detection.joblib
 ├── notebook/
-│   ├── fraud_detection.ipynb
-│   └── predict.py
+│   ├── fraud_detection.ipynb    # Main notebook with EDA and model development
+│   ├── fraud_detection.py      # Python version of the notebook
+│   └── predict.py             # Streamlined script for training and prediction
 ├── requirements.txt
 └── README.md
 ```
